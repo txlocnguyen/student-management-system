@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.example.studentmanagementsystem
+web: java -jar target/studentmanagementsystem-0.0.1-SNAPSHOT.jar
